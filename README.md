@@ -6,10 +6,10 @@ This tool is created for the AIP Coding Challenge for GSoC. Its purpose is to re
 ## Files
 The following files are included in this tool:
 
-### blocklist_retrieve.json
+### 🠊 blocklist_retrieve.json
 This file contains a list of blocklists to retrieve. It includes online blocklists as well as offline blocklists.
 
-### tool.py
+### 🠊 tool.py
 This is the main script file that retrieves the blocklists and saves them to the OUTPUT_DIR. It includes the following functions:
 
 * get_blocklists(): retrieves the blocklists and saves them to the OUTPUT_DIR
