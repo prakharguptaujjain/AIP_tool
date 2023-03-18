@@ -1,0 +1,8 @@
+{
+    "blocklists_online": [
+        "https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha-latest.csv"
+    ],
+    "blocklists_offline_folders": [
+        "./data/output/Alpha"
+    ]
+}
