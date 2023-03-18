@@ -1,5 +1,4 @@
-requests
-os
-json
-time
-gzip
+requests==2.27.1
+json==0.9.6
+time==1.0.0
+gzip==0.3.3
